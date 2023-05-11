@@ -2,7 +2,7 @@
 Script en Python, mediante el cual podemos descargar el audio en formato MP3 de un vídeo de YouTube aportando el enlace de este.
 
 
-Highlights
+<h3>Highlights</h3> 
 1- Uso de la librería easygui para introducir el enlace y guardar el archivo en un directorio elegido manualmente
 2- Validación de enlace utilizando regex mediante la librería re (¡Reconoce incluso enlaces acortados!)
 
